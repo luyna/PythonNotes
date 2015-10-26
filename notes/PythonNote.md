@@ -52,7 +52,7 @@
         print(i)
     else:
         print('the loop is over')    
-<code><pre>
+</code></pre>
 2. break  continue
 
 ## chapter8 函数
