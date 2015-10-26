@@ -42,5 +42,30 @@
         block
     else:
         block
+
+    while condition:
+        blocks
+    else:
+        print('the loop is over')
+
+    for i in range(1,5)
+        print(i)
+    else:
+        print('the loop is over')    
 <code><pre>
+2. break  continue
+
+## chapter8 函数
+3. 函数定义 def 函数名（参数）：blocks
+3. 局部变量 全局语句global：为定义在函数外的变量赋值（尽量避免这么做）  非局部变量（定义函数内的函数时）
+3. 默认参数：利用参数位置赋默认值，只有在形参表末尾的那些参数可以有默认参数值
+3. 关键参数：利用参数名赋默认值，fun(c=10,a=100)
+
+
+
+
+
+
+
+
 

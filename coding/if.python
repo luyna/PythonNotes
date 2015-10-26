@@ -1,0 +1,12 @@
+#!/usr/bin/python3
+# Filename:if.py
+number=23
+guess=int(input('Enter an integer:'))
+if guess==number:
+    print('haha ,you are right')
+    print('but you do not win any prizes')
+elif guess<number:
+    print('No,it is a little higher than that')
+else:
+    print('No,it is a little lower than that')
+print('done')
